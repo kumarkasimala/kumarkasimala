@@ -22,7 +22,7 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 - Trust, observability, policy-aware execution, and prompt injection defense
 - Cloud-native, event-driven, multi-tenant AI platform architecture
 
-## Original Contribution Themes
+## Technical Themes
 
 | Theme | What it means in practice |
 | --- | --- |
@@ -38,8 +38,8 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 - [SF Bay ACM talk: From Prompt Grounding to Edge Delivery](https://www.sfbayacm.org/event/from-prompt-grounding-to-edge-delivery-agentic-ai-at-scale/)
 - [WCSC 2026 keynote](https://www.scrs.in/conference/wcsc2026/speaker/talk/2069)
 - [TDX 2026: Lock in Prompt Response Formats with Structured Outputs](https://reg.salesforce.com/flow/plus/tdx26/sessioncatalog/page/catalog/session/1771032017004001Utp2)
-- [Public evidence map: talks, publications, patent, Salesforce links, and coverage](./REFERENCES.md)
-- [Open-source roadmap: contribution targets and planned public artifacts](./OPEN_SOURCE_ROADMAP.md)
+- [Selected public links: talks, publications, patent, Salesforce links, and coverage](./REFERENCES.md)
+- [Open-source work: active areas and contribution ideas](./OPEN_SOURCE_WORK.md)
 
 ## Selected Repositories
 
@@ -65,11 +65,11 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 - Agentic AI orchestration and enterprise workflow runtime design
 - Public speaking, patents, scholarly writing, and peer review activity
 
-## Current Original Artifact
+## Current Project
 
 The `prompt-control-plane` repo now includes a public prompt runtime schema, CRM support example, prompt injection boundary example, telemetry attributes, and promptfoo regression config:
 
-- [Original contribution framing](https://github.com/kumarkasimala/prompt-control-plane/blob/main/docs/original-contribution.md)
+- [Design notes](https://github.com/kumarkasimala/prompt-control-plane/blob/main/docs/original-contribution.md)
 - [Prompt runtime schema](https://github.com/kumarkasimala/prompt-control-plane/blob/main/schemas/prompt-runtime.schema.json)
 - [CRM support prompt example](https://github.com/kumarkasimala/prompt-control-plane/blob/main/examples/crm-support/templates/case-summary.prompt.json)
 
@@ -82,4 +82,4 @@ The `prompt-control-plane` repo now includes a public prompt runtime schema, CRM
 
 ## What This Profile Is For
 
-This profile is meant to make the first impression clear: enterprise prompt systems, grounded AI, agentic workflows, and platform architecture. It is intentionally aligned with original contributions, selective open-source participation, and public technical visibility.
+This profile is meant to make the first impression clear: enterprise prompt systems, grounded AI, agentic workflows, and platform architecture.

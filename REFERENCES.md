@@ -1,6 +1,6 @@
-# Public Evidence Map
+# Selected Public Links
 
-This page collects public links that support the GitHub profile narrative: prompt engineering for enterprise AI systems, Agentforce/Prompt Builder visibility, public speaking, publications, patent evidence, and selective open-source alignment.
+This page collects public links related to prompt engineering for enterprise AI systems, Agentforce/Prompt Builder, public speaking, publications, patents, and open-source work.
 
 ## Public Speaking and Visibility
 
@@ -98,4 +98,4 @@ This page collects public links that support the GitHub profile narrative: promp
 - [OWASP LLM Top 10](https://github.com/kumarkasimala/www-project-top-10-for-large-language-model-applications)
 - [PurpleLlama](https://github.com/kumarkasimala/PurpleLlama)
 - [Guardrails](https://github.com/kumarkasimala/Guardrails)
-- [Open-source roadmap](./OPEN_SOURCE_ROADMAP.md)
+- [Open-source work](./OPEN_SOURCE_WORK.md)
