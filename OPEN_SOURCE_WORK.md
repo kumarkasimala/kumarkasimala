@@ -21,6 +21,10 @@ The goal is focused work around prompt lifecycle management, context engineering
 | Telemetry attribute notes | https://github.com/kumarkasimala/prompt-control-plane/blob/main/docs/telemetry.md |
 | CRM support prompt example | https://github.com/kumarkasimala/prompt-control-plane/blob/main/examples/crm-support/templates/case-summary.prompt.json |
 | Promptfoo regression config | https://github.com/kumarkasimala/prompt-control-plane/blob/main/examples/crm-support/evals/promptfoo.yaml |
+| prompt-control-plane v0.1.0 release | https://github.com/kumarkasimala/prompt-control-plane/releases/tag/v0.1.0 |
+| Public CRM prompt template examples | https://github.com/kumarkasimala/salesforce-agentforce-prompt-templates/tree/main/templates |
+| Agentforce-style prompt template docs | https://github.com/kumarkasimala/salesforce-agentforce-prompt-templates/tree/main/docs |
+| salesforce-agentforce-prompt-templates v0.1.0 release | https://github.com/kumarkasimala/salesforce-agentforce-prompt-templates/releases/tag/v0.1.0 |
 
 ## Active Areas
 
@@ -39,4 +43,3 @@ The goal is focused work around prompt lifecycle management, context engineering
 3. LangGraph governed CRM agent workflow example with RAG, tool calls, structured output, and policy checks.
 4. OWASP prompt injection boundary pattern for trusted instructions and untrusted enterprise data.
 5. Phoenix or Langfuse example mapping prompt runtime metadata into traces and evals.
-

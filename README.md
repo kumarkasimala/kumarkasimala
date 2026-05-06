@@ -67,11 +67,18 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 
 ## Current Project
 
-The `prompt-control-plane` repo now includes a public prompt runtime schema, CRM support example, prompt injection boundary example, telemetry attributes, and promptfoo regression config:
+The `prompt-control-plane` repo now includes a public prompt runtime schema, CRM support example, prompt injection boundary example, telemetry attributes, promptfoo regression config, citation metadata, and a tagged release:
 
 - [Design notes](https://github.com/kumarkasimala/prompt-control-plane/blob/main/docs/original-contribution.md)
 - [Prompt runtime schema](https://github.com/kumarkasimala/prompt-control-plane/blob/main/schemas/prompt-runtime.schema.json)
 - [CRM support prompt example](https://github.com/kumarkasimala/prompt-control-plane/blob/main/examples/crm-support/templates/case-summary.prompt.json)
+- [v0.1.0 release](https://github.com/kumarkasimala/prompt-control-plane/releases/tag/v0.1.0)
+
+The `salesforce-agentforce-prompt-templates` repo includes public CRM prompt template examples for service, sales, field service, and governance workflows:
+
+- [Prompt template design notes](https://github.com/kumarkasimala/salesforce-agentforce-prompt-templates/blob/main/docs/prompt-template-design.md)
+- [Prompt injection boundaries](https://github.com/kumarkasimala/salesforce-agentforce-prompt-templates/blob/main/docs/prompt-injection-boundaries.md)
+- [v0.1.0 release](https://github.com/kumarkasimala/salesforce-agentforce-prompt-templates/releases/tag/v0.1.0)
 
 ## Reference Links
 
