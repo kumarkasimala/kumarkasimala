@@ -8,8 +8,19 @@ The goal is not to accumulate passive forks. The goal is to make focused contrib
 
 | Repository | Purpose |
 | --- | --- |
-| [prompt-control-plane](https://github.com/kumarkasimala/prompt-control-plane) | Reference architecture for prompt systems as enterprise runtime infrastructure |
+| [prompt-control-plane](https://github.com/kumarkasimala/prompt-control-plane) | Reference architecture, schema, CRM support example, telemetry notes, and promptfoo eval config for prompt systems as enterprise runtime infrastructure |
 | [salesforce-agentforce-prompt-templates](https://github.com/kumarkasimala/salesforce-agentforce-prompt-templates) | Public Salesforce/Agentforce-style prompt templates, grounding rules, and evaluation patterns |
+
+## Completed Public Artifacts
+
+| Artifact | Link |
+| --- | --- |
+| Prompt runtime JSON schema | https://github.com/kumarkasimala/prompt-control-plane/blob/main/schemas/prompt-runtime.schema.json |
+| Original contribution framing | https://github.com/kumarkasimala/prompt-control-plane/blob/main/docs/original-contribution.md |
+| Runtime architecture diagram | https://github.com/kumarkasimala/prompt-control-plane/blob/main/docs/architecture.md |
+| Telemetry attribute notes | https://github.com/kumarkasimala/prompt-control-plane/blob/main/docs/telemetry.md |
+| CRM support prompt example | https://github.com/kumarkasimala/prompt-control-plane/blob/main/examples/crm-support/templates/case-summary.prompt.json |
+| Promptfoo regression config | https://github.com/kumarkasimala/prompt-control-plane/blob/main/examples/crm-support/evals/promptfoo.yaml |
 
 ## Primary Contribution Targets
 
@@ -36,4 +47,3 @@ The goal is not to accumulate passive forks. The goal is to make focused contrib
 - Examples accepted into official docs or example folders.
 - Tagged releases in original repos.
 - Reusable schemas, diagrams, eval cases, and runnable demos.
-

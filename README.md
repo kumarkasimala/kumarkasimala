@@ -45,7 +45,7 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 
 | Repository | Purpose |
 | --- | --- |
-| [prompt-control-plane](https://github.com/kumarkasimala/prompt-control-plane) | Reference architecture for enterprise prompt runtime infrastructure |
+| [prompt-control-plane](https://github.com/kumarkasimala/prompt-control-plane) | Reference architecture, schema, CRM example, telemetry notes, and eval config for enterprise prompt runtime infrastructure |
 | [salesforce-agentforce-prompt-templates](https://github.com/kumarkasimala/salesforce-agentforce-prompt-templates) | Public Salesforce/Agentforce-style prompt template examples |
 | [langgraph](https://github.com/kumarkasimala/langgraph) | Agent orchestration, runtime control, governance, and workflow patterns |
 | [promptfoo](https://github.com/kumarkasimala/promptfoo) | PromptOps, evaluation, and red-team regression patterns |
@@ -64,6 +64,14 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 - Context engineering and grounded AI
 - Agentic AI orchestration and enterprise workflow runtime design
 - Public speaking, patents, scholarly writing, and peer review activity
+
+## Current Original Artifact
+
+The `prompt-control-plane` repo now includes a public prompt runtime schema, CRM support example, prompt injection boundary example, telemetry attributes, and promptfoo regression config:
+
+- [Original contribution framing](https://github.com/kumarkasimala/prompt-control-plane/blob/main/docs/original-contribution.md)
+- [Prompt runtime schema](https://github.com/kumarkasimala/prompt-control-plane/blob/main/schemas/prompt-runtime.schema.json)
+- [CRM support prompt example](https://github.com/kumarkasimala/prompt-control-plane/blob/main/examples/crm-support/templates/case-summary.prompt.json)
 
 ## Reference Links
 
