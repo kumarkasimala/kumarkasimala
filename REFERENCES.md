@@ -90,4 +90,12 @@ This page collects public links that support the GitHub profile narrative: promp
 - [agent-framework](https://github.com/kumarkasimala/agent-framework)
 - [llama_index](https://github.com/kumarkasimala/llama_index)
 - [haystack](https://github.com/kumarkasimala/haystack)
-
+- [langfuse](https://github.com/kumarkasimala/langfuse)
+- [phoenix](https://github.com/kumarkasimala/phoenix)
+- [openai-agents-python](https://github.com/kumarkasimala/openai-agents-python)
+- [litellm](https://github.com/kumarkasimala/litellm)
+- [graphrag](https://github.com/kumarkasimala/graphrag)
+- [OWASP LLM Top 10](https://github.com/kumarkasimala/www-project-top-10-for-large-language-model-applications)
+- [PurpleLlama](https://github.com/kumarkasimala/PurpleLlama)
+- [Guardrails](https://github.com/kumarkasimala/Guardrails)
+- [Open-source roadmap](./OPEN_SOURCE_ROADMAP.md)

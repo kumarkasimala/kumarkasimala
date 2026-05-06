@@ -39,6 +39,7 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 - [WCSC 2026 keynote](https://www.scrs.in/conference/wcsc2026/speaker/talk/2069)
 - [TDX 2026: Lock in Prompt Response Formats with Structured Outputs](https://reg.salesforce.com/flow/plus/tdx26/sessioncatalog/page/catalog/session/1771032017004001Utp2)
 - [Public evidence map: talks, publications, patent, Salesforce links, and coverage](./REFERENCES.md)
+- [Open-source roadmap: contribution targets and planned public artifacts](./OPEN_SOURCE_ROADMAP.md)
 
 ## Selected Repositories
 
@@ -52,6 +53,9 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 | [agent-framework](https://github.com/kumarkasimala/agent-framework) | Multi-agent workflow orchestration patterns |
 | [llama_index](https://github.com/kumarkasimala/llama_index) | Context engineering, RAG, and grounding patterns |
 | [haystack](https://github.com/kumarkasimala/haystack) | Production RAG pipelines and context-driven AI workflows |
+| [langfuse](https://github.com/kumarkasimala/langfuse) | Prompt lifecycle management, observability, evals, and PromptOps patterns |
+| [phoenix](https://github.com/kumarkasimala/phoenix) | AI observability, OpenTelemetry tracing, RAG evals, and runtime spans |
+| [OWASP LLM Top 10](https://github.com/kumarkasimala/www-project-top-10-for-large-language-model-applications) | GenAI security, prompt injection defense, and agent governance |
 
 ## Profile Signals
 
