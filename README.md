@@ -1,72 +1,72 @@
+<p align="center">
+  <img src="./assets/header.svg" alt="Kumar Kasimala profile banner" />
+</p>
+
 # Kumar Kasimala
 
-Software Engineering Architect | Prompt Engineering for Enterprise AI Systems | Agentic AI | Context Engineering | Multi-Tenant SaaS
+Software Engineering Architect focused on `Prompt Engineering for Enterprise AI Systems`.
 
-I architect enterprise AI platforms where prompts, context, tools, model routing, governance, and observability operate as production software infrastructure. My work focuses on converting prompt engineering from ad hoc text design into reliable, versioned, testable, and governed runtime systems for large-scale enterprise applications.
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Enterprise%20AI-0ea5e9?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-Grounded%20AI-0f766e?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Orchestration-f97316?style=flat-square)
+![Salesforce](https://img.shields.io/badge/Salesforce-Architect-0176d3?style=flat-square)
 
-My specialization is prompt engineering for enterprise AI systems: reusable prompt-system design, runtime context assembly, governed grounding, retrieval-augmented generation, tool/function calling, agentic workflow orchestration, prompt lifecycle management, trust, observability, and cloud-native execution for multi-tenant AI platforms.
+I build enterprise AI platforms where prompts, context, tools, model routing, governance, and observability are treated as production runtime infrastructure. My specialization is not prompt writing alone. It is the design of reusable prompt systems, governed lifecycle management, grounded context assembly, retrieval, agent orchestration, and secure execution at enterprise scale.
 
-## Current Focus
+## What I Work On
 
-- Governed prompt lifecycle management, versioning, evaluation, and deployment
-- Context engineering for grounded AI: runtime data resolution, RAG, citations, and retrieval
-- Agentic AI orchestration: tools, actions, workflow state, handoffs, and deterministic execution paths
+- Prompt lifecycle management, versioning, evaluation, and deployment
+- Context engineering for grounded AI, runtime data resolution, and RAG
+- Agentic AI orchestration with tools, actions, workflow state, and handoffs
 - Multi-model and multi-LLM routing across enterprise AI execution layers
-- Prompt injection defense, trust controls, policy-aware execution, and observability
-- Cloud-native, event-driven, multi-tenant SaaS architecture for AI platforms
+- Trust, observability, policy-aware execution, and prompt injection defense
+- Cloud-native, event-driven, multi-tenant AI platform architecture
 
 ## Original Contribution Themes
 
-### Enterprise Prompt Runtime Architecture
+| Theme | What it means in practice |
+| --- | --- |
+| Enterprise prompt runtime architecture | Prompt templates, lifecycle hooks, context builders, policy constraints, model routing, telemetry |
+| Context engineering | Resolving and assembling enterprise context so outputs are accurate, explainable, and compliant |
+| Agentic AI orchestration | Deterministic workflow paths that coordinate LLMs, tools, memory, and review steps |
+| Scalable enterprise AI platforms | Multi-tenant architecture, APIs, distributed workflows, and reusable platform frameworks |
 
-I work on prompt systems as programmable runtime infrastructure: prompt templates, lifecycle hooks, context builders, policy constraints, model routing, tool contracts, versioning, evaluation, telemetry, and safe deployment workflows.
+## Public Work
 
-### Context Engineering and Grounded AI
+- [Google Scholar](https://scholar.google.com/citations?user=K5Q8wwoAAAAJ)
+- [Patents: US11199944B2](https://patents.google.com/patent/US11199944B2/en)
+- [SF Bay ACM talk: From Prompt Grounding to Edge Delivery](https://www.sfbayacm.org/event/from-prompt-grounding-to-edge-delivery-agentic-ai-at-scale/)
+- [WCSC 2026 keynote](https://www.scrs.in/conference/wcsc2026/speaker/talk/2069)
+- [Technical references and selected public links](./REFERENCES.md)
 
-I design systems that gather, resolve, assemble, and govern enterprise context at runtime so AI outputs are accurate, explainable, policy-compliant, and production-ready.
+## Selected Repositories
 
-### Agentic AI Orchestration
+| Repository | Purpose |
+| --- | --- |
+| [prompt-control-plane](https://github.com/kumarkasimala/prompt-control-plane) | Reference architecture for enterprise prompt runtime infrastructure |
+| [salesforce-agentforce-prompt-templates](https://github.com/kumarkasimala/salesforce-agentforce-prompt-templates) | Public Salesforce/Agentforce-style prompt template examples |
+| [langgraph](https://github.com/kumarkasimala/langgraph) | Agent orchestration, runtime control, governance, and workflow patterns |
+| [promptfoo](https://github.com/kumarkasimala/promptfoo) | PromptOps, evaluation, and red-team regression patterns |
+| [semantic-conventions](https://github.com/kumarkasimala/semantic-conventions) | GenAI observability and telemetry conventions |
+| [agent-framework](https://github.com/kumarkasimala/agent-framework) | Multi-agent workflow orchestration patterns |
+| [llama_index](https://github.com/kumarkasimala/llama_index) | Context engineering, RAG, and grounding patterns |
+| [haystack](https://github.com/kumarkasimala/haystack) | Production RAG pipelines and context-driven AI workflows |
 
-I design agentic systems that coordinate LLMs, retrieval, tools, memory, workflow state, and review paths in production environments, with emphasis on reliability, determinism, and operational governance.
+## Profile Signals
 
-### Scalable Enterprise AI Platforms
+- Salesforce Software Engineering Architect
+- Prompt Engineering for Enterprise AI Systems
+- Context engineering and grounded AI
+- Agentic AI orchestration and enterprise workflow runtime design
+- Public speaking, patents, scholarly writing, and peer review activity
 
-My engineering background spans large-scale Salesforce platform architecture, AI platform delivery, Service Cloud systems, distributed workflows, APIs, reusable frameworks, and multi-team architecture governance.
+## Reference Links
 
-## Selected Public Work and Writing
+- [Salesforce Prompt Builder](https://www.salesforce.com/artificial-intelligence/prompt-builder/)
+- [Developer docs: Prompt Builder](https://developer.salesforce.com/docs/ai/agentforce/guide/get-started-prompt-builder.html)
+- [Salesforce admin announcement](https://admin.salesforce.com/blog/2023/introducing-prompt-builder-supercharge-every-workflow-with-trusted-ai-prompts)
+- [Trailhead: Prompt Builder](https://trailhead.salesforce.com/content/learn/projects/quick-start-prompt-builder)
 
-- Prompt engineering and runtime architecture for enterprise AI systems
-- PromptOps lifecycle management for LLM applications
-- Agentic AI runtime design, context grounding, governance, and observability
-- Cloud-native AI architecture using workflow runtimes, queues, and multi-tenant platform patterns
+## What This Profile Is For
 
-## Open Source Direction
-
-I use GitHub to contribute to and demonstrate production-grade patterns for:
-
-- Agent orchestration frameworks such as LangGraph, Microsoft Agent Framework, and OpenAI Agents SDK
-- RAG and context-engineering frameworks such as LlamaIndex and Haystack
-- Prompt evaluation and AI red-team tooling such as promptfoo
-- AI observability standards such as OpenTelemetry semantic conventions for generative AI
-- Guardrail and governance tooling for enterprise LLM applications
-- Salesforce-oriented prompt template examples, Agentforce implementation patterns, and enterprise CRM AI workflows
-
-## Representative Engineering Areas
-
-```text
-Field:             Prompt Engineering for Enterprise AI Systems
-Specializations:   Context engineering, governed prompt lifecycle, agentic orchestration
-Generative AI:     PromptOps, RAG, grounding, tool calling, structured outputs, evals
-Agentic systems:   Multi-agent workflows, runtime orchestration, state, memory, actions
-Trust/governance:  Prompt injection defense, policy-aware execution, telemetry, observability
-Enterprise SaaS:   Multi-tenant architecture, platform APIs, scale, reliability
-Cloud/runtime:     Kubernetes, Docker, Temporal, Kafka, RabbitMQ, event-driven execution
-Languages:         Java, Python, TypeScript, JavaScript, Apex
-```
-
-## Contribution Roadmap
-
-1. Publish original reference implementations for enterprise prompt runtime and PromptOps patterns.
-2. Contribute examples, documentation, and production-hardening patterns to agent orchestration and RAG communities.
-3. Build Salesforce/Agentforce prompt-template examples that demonstrate governance, grounding, and lifecycle patterns.
-4. Maintain public notes connecting enterprise prompt engineering practice to reproducible software architecture.
+This profile is meant to make the first impression clear: enterprise prompt systems, grounded AI, agentic workflows, and platform architecture. It is intentionally aligned with original contributions, selective open-source participation, and public technical visibility.

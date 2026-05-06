@@ -1,0 +1,23 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kumar Kasimala profile banner</title>
+  <desc id="desc">Enterprise prompt engineering, agentic AI, and context engineering profile banner.</desc>
+  <rect width="1600" height="520" fill="#0B1320"/>
+  <rect x="0" y="0" width="1600" height="520" fill="url(#bg)"/>
+  <circle cx="1320" cy="110" r="200" fill="#133C55" fill-opacity="0.55"/>
+  <circle cx="1260" cy="390" r="160" fill="#0E7490" fill-opacity="0.35"/>
+  <circle cx="250" cy="90" r="130" fill="#F97316" fill-opacity="0.16"/>
+  <path d="M120 360C280 250 410 220 560 222C705 224 812 284 962 286C1124 288 1260 208 1470 138" stroke="#7DD3FC" stroke-width="8" stroke-linecap="round" stroke-dasharray="1 18" opacity="0.5"/>
+  <path d="M150 410C290 324 425 300 558 304C704 308 828 364 970 366C1118 368 1250 320 1450 250" stroke="#FDBA74" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
+  <rect x="110" y="118" width="690" height="284" rx="28" fill="#0F172A" fill-opacity="0.82" stroke="#1F2A3D"/>
+  <text x="150" y="205" fill="#F8FAFC" font-size="58" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Kumar Kasimala</text>
+  <text x="150" y="258" fill="#93C5FD" font-size="28" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="500">Prompt Engineering for Enterprise AI Systems</text>
+  <text x="150" y="306" fill="#E2E8F0" font-size="22" font-family="Inter, Segoe UI, Arial, sans-serif">Context engineering · Agentic AI · RAG · governance · runtime architecture</text>
+  <text x="150" y="344" fill="#94A3B8" font-size="20" font-family="Inter, Segoe UI, Arial, sans-serif">Software Engineering Architect at Salesforce</text>
+  <defs>
+    <linearGradient id="bg" x1="240" y1="0" x2="1360" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1320"/>
+      <stop offset="0.5" stop-color="#111D33"/>
+      <stop offset="1" stop-color="#07111E"/>
+    </linearGradient>
+  </defs>
+</svg>
