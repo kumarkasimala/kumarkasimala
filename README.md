@@ -37,7 +37,8 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 - [Patents: US11199944B2](https://patents.google.com/patent/US11199944B2/en)
 - [SF Bay ACM talk: From Prompt Grounding to Edge Delivery](https://www.sfbayacm.org/event/from-prompt-grounding-to-edge-delivery-agentic-ai-at-scale/)
 - [WCSC 2026 keynote](https://www.scrs.in/conference/wcsc2026/speaker/talk/2069)
-- [Technical references and selected public links](./REFERENCES.md)
+- [TDX 2026: Lock in Prompt Response Formats with Structured Outputs](https://reg.salesforce.com/flow/plus/tdx26/sessioncatalog/page/catalog/session/1771032017004001Utp2)
+- [Public evidence map: talks, publications, patent, Salesforce links, and coverage](./REFERENCES.md)
 
 ## Selected Repositories
 
@@ -63,9 +64,9 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 ## Reference Links
 
 - [Salesforce Prompt Builder](https://www.salesforce.com/artificial-intelligence/prompt-builder/)
-- [Developer docs: Prompt Builder](https://developer.salesforce.com/docs/ai/agentforce/guide/get-started-prompt-builder.html)
-- [Salesforce admin announcement](https://admin.salesforce.com/blog/2023/introducing-prompt-builder-supercharge-every-workflow-with-trusted-ai-prompts)
-- [Trailhead: Prompt Builder](https://trailhead.salesforce.com/content/learn/projects/quick-start-prompt-builder)
+- [Agentforce announcement](https://www.salesforce.com/news/press-releases/2024/09/12/agentforce-announcement/)
+- [Salesforce Engineering: modular, multi-model framework for enterprise AI agents](https://engineering.salesforce.com/engineering-agentforce-building-a-modular-multi-model-framework-for-enterprise-ai-agents/)
+- [Salesforce Engineering: grounding enterprise AI with live retrieval and citations](https://engineering.salesforce.com/grounding-enterprise-ai-with-live-web-retrieval-and-verifiable-citations/)
 
 ## What This Profile Is For
 
