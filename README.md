@@ -57,7 +57,7 @@ I build enterprise AI platforms where prompts, context, tools, model routing, go
 | [phoenix](https://github.com/kumarkasimala/phoenix) | AI observability, OpenTelemetry tracing, RAG evals, and runtime spans |
 | [OWASP LLM Top 10](https://github.com/kumarkasimala/www-project-top-10-for-large-language-model-applications) | GenAI security, prompt injection defense, and agent governance |
 
-## Profile Signals
+## Signals
 
 - Salesforce Software Engineering Architect
 - Prompt Engineering for Enterprise AI Systems
@@ -86,7 +86,3 @@ The `salesforce-agentforce-prompt-templates` repo includes public CRM prompt tem
 - [Agentforce announcement](https://www.salesforce.com/news/press-releases/2024/09/12/agentforce-announcement/)
 - [Salesforce Engineering: modular, multi-model framework for enterprise AI agents](https://engineering.salesforce.com/engineering-agentforce-building-a-modular-multi-model-framework-for-enterprise-ai-agents/)
 - [Salesforce Engineering: grounding enterprise AI with live retrieval and citations](https://engineering.salesforce.com/grounding-enterprise-ai-with-live-web-retrieval-and-verifiable-citations/)
-
-## What This Profile Is For
-
-This profile is meant to make the first impression clear: enterprise prompt systems, grounded AI, agentic workflows, and platform architecture.
